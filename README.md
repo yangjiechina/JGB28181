@@ -1,4 +1,6 @@
 # JGB28181
+[新项目，支持GB28181和1078](https://github.com/lkmio/lkm)
+
 基于Java实现的GB28181平台。
 
 ### 使用指南
